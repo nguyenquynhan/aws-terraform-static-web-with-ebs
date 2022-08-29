@@ -155,4 +155,3 @@ Chúng ta sử dụng IP đó và truy cập vào Website mà chúng ta đã hos
 
 
 ##### Như vậy chúng ta đã hoàn thành bài lab xây dựng một Website được host trên một con EC2 và sử dụng EBS lưu trữ source code.
-Bạn có thể tìm source của bài viết này [tại đây](https://github.com/nguyenquynhan/aws-terraform-static-web-with-ebs).
